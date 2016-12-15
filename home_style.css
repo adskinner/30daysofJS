@@ -104,5 +104,21 @@ a {
     margin: 80px 0;
 }
 
+.coming-soon {
+    
+    width: 800px;
+    border: 2px solid #fff;
+    
+}
 
+.coming-soon p {
+    padding: 18% 0;
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+}
+
+.row {
+    margin: 0 0 35px 0;
+}
 
