@@ -122,3 +122,22 @@ a {
     margin: 0 0 35px 0;
 }
 
+
+@media only screen 
+  and (min-width: 320px) 
+  and (max-width: 667px)
+  and (-webkit-min-device-pixel-ratio: 2) {
+      
+      .home-container {
+    padding: 40px 20px;
+        
+}
+   h1 {
+
+    font-size: 3rem;
+    
+
+}   
+      
+
+}
